@@ -1,1 +1,0 @@
-# DrupalBase8S3FileStore
